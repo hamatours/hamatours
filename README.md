@@ -16,11 +16,11 @@
 
 <div align=center>
   
-  [rentry](https://rentry.co/yuridivye)
+  
   [easy2read](https://rentry.co/fishmael) 
   [strawpage](https://gachikoi.straw.page/)
   [atabook](https://kurode.atabook.org/) 
-  [prnouns.cc](https://pronouns.cc/@hamatours)ㅤ
+  
   
 </div>
 
