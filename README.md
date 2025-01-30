@@ -8,10 +8,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamatours&label=vistors&color=8acceb">
   </p
-    
+   < div align=center>
+  
+
+  
+</div>
 
 <div align=center>
- 
-  [rentry](https://rentry.co/yuridivye) [easy2read](https://rentry.co/fishmael) [strawpage](https://gachikoi.straw.page/) [atabook](https://kurode.atabook.org/)  [prnouns.cc](https://pronouns.cc/@hamatours)ㅤ 
-
+  
+  [rentry](https://rentry.co/yuridivye)
+  [easy2read](https://rentry.co/fishmael) 
+  [strawpage](https://gachikoi.straw.page/)
+  [atabook](https://kurode.atabook.org/) 
+  [prnouns.cc](https://pronouns.cc/@hamatours)ㅤ
+  
 </div>
+
