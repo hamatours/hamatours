@@ -18,7 +18,7 @@
   
   
   [easy2read](https://rentry.co/fishmael) 
-  [strawpage](https://gachikoi.straw.page/)
+  [strawpage](https://rikkakizuki.straw.page/)
   [atabook](https://kurode.atabook.org/) 
   
   
