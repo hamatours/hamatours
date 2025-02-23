@@ -1,12 +1,12 @@
 
   <p align="center">
-    art by : @yorudoodles on twt
+    fried chicken wings cause love fires
 </p>
  <p align="center">
-<img src="https://file.garden/Zy4Qac38k0TT_wEe/cutestkinjomae" data-canonical-src="(https://pbs.twimg.com/media/GYszLABX0AAIY8N?format=jpg&name=4096x4096)" width =300  />
+<img src="https://file.garden/Zy4Qac38k0TT_wEe/cariskissing" data-canonical-src="(https://pbs.twimg.com/media/GYszLABX0AAIY8N?format=jpg&name=4096x4096)" width =300  />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamatours&label=vistors&color=8acceb">
+  <img src="https://komarev.com/ghpvc/?username=hamatours&label=vistors&color=975cab">
   </p
    < div align=center>
   
