@@ -17,7 +17,7 @@
 <div align=center>
   
   
-  [easy2read](https://rentry.co/fishmael) 
+  [rentry](https://rentry.co/lacedposiontea) 
   [strawpage](https://rikkakizuki.straw.page/)
   [atabook](https://kurode.atabook.org/) 
   
