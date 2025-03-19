@@ -1,12 +1,12 @@
 
   <p align="center">
-    SHAKE IT TILL IT BREAKS!
+  
 </p>
  <p align="center">
-<img src="https://file.garden/Zy4Qac38k0TT_wEe/Fatutu%2C%20Lorelei%20__%20Reverse_%201999%20__%20r1999.jpeg" data-canonical-src="(https://pbs.twimg.com/media/GYszLABX0AAIY8N?format=jpg&name=4096x4096)" width =300  />
+<img src="" data-canonical-src="(https://pbs.twimg.com/media/GYszLABX0AAIY8N?format=jpg&name=4096x4096)" width =300  />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamatours&label=vistors&color=60eb9a">
+  <img src="https://komarev.com/ghpvc/?username=hamatours&label=vistors&color=bd534b">
   </p
    < div align=center>
   
