@@ -3,7 +3,7 @@
   
 </p>
  <p align="center">
-<img src="" data-canonical-src="(https://pbs.twimg.com/media/GYszLABX0AAIY8N?format=jpg&name=4096x4096)" width =300  />
+<img src="https://static.wikia.nocookie.net/saihate-station/images/3/3c/Shion_7_okori.png/revision/latest?cb=20250316164522" data-canonical-src="(https://pbs.twimg.com/media/GYszLABX0AAIY8N?format=jpg&name=4096x4096)" width =300  />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamatours&label=vistors&color=bd534b">
