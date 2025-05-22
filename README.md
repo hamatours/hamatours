@@ -3,10 +3,10 @@
   
 </p>
  <p align="center">
-<img src="https://static.wikia.nocookie.net/saihate-station/images/3/3c/Shion_7_okori.png/revision/latest?cb=20250316164522" data-canonical-src="(https://pbs.twimg.com/media/GYszLABX0AAIY8N?format=jpg&name=4096x4096)" width =300  />
+<img src="https://i.pinimg.com/736x/3f/49/f8/3f49f8f6f224388b2147410dfc2cb553.jpg" data-canonical-src="(https://pbs.twimg.com/media/GYszLABX0AAIY8N?format=jpg&name=4096x4096)" width =300  />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamatours&label=vistors&color=bd534b">
+  <img src="https://komarev.com/ghpvc/?username=hamatours&label=vistors&color=a4edda">
   </p
    < div align=center>
   
@@ -25,6 +25,6 @@
 </div>
 
 <p align="center">
-  mae/julia minor please w2i im only ontab if my friends are online int first cuz i dont talk to people first im shy
+there is a high chance if im trying to be your friend I am attempting to worm myself into your brain
    </p
 
