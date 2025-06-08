@@ -17,7 +17,7 @@
 <div align=center>
   
   
-  [rentry (wip)](https://rentry.co/xuebaochai) 
+  [rentry](https://rentry.co/miracletoi) 
   [strawpage](https://rikkakizuki.straw.page/)
   [atabook](https://kurode.atabook.org/) 
   
