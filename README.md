@@ -18,7 +18,7 @@
   
   
   [rentry](https://rentry.co/miracletoi) 
-  [strawpage](https://rikkakizuki.straw.page/)
+ 
   [atabook](https://kurode.atabook.org/) 
   
   
