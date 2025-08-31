@@ -1,8 +1,5 @@
 
-  <p align="center">
-  <img src="https://file.garden/Zy4Qac38k0TT_wEe/buildaboat.png">
-</p>
- <p align="center">
+
 
 </p>
 <p align="center">
@@ -25,6 +22,6 @@
 </div>
 
 <p align="center">
-there is a high chance if im trying to be your friend I am attempting to worm myself into your brain also please take skin inspo off of me it makes me happy when i inspire someone
-   </p
+please don't bring me into ur drama im here to have a good time okay
+</p
 
