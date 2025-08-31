@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pbs.twimg.com/media/Gx5Tg07awAA4fWH?format=jpg&name=large">
+  <img src="https://pbs.twimg.com/media/GzVrQ5OWUAAh1CD?format=png&name=240x240">
   </p
    < div align=center>
 
