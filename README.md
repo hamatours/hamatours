@@ -17,9 +17,9 @@
 <div align=center>
   
   
-  [rentry](https://rentry.co/miracletoi) 
+   ##### ‎‎ [rentry](https://rentry.co/miracletoi) 
  
-  [atabook](https://kurode.atabook.org/) 
+   ##### ‎‎ [atabook](https://kurode.atabook.org/) 
   
   
 </div>
