@@ -26,7 +26,7 @@
 
 <p align="center">
 iwec dont int if you dont like me
-  
-  i WILL cuddle in you have c+h in ur name
+  <p align="center">
+i WILL cuddle in you have c+h in ur name
 </p
 
