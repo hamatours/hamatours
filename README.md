@@ -1,4 +1,7 @@
-
+<p align="center">
+  <img src="https://pbs.twimg.com/media/Gx5Tg07awAA4fWH?format=jpg&name=large">
+  </p
+   < div align=center>
 
 
 </p>
@@ -22,6 +25,6 @@
 </div>
 
 <p align="center">
-please don't bring me into ur drama im here to have a good time okay
+iwec dont int if you dont like me 
 </p
 
