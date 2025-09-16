@@ -19,7 +19,7 @@
   
    ##### ‎‎ [rentry](https://rentry.co/miracletoi) 
  
-   ##### ‎‎ [atabook](https://kurode.atabook.org/) 
+   ##### ‎‎ [leave me a message](https://tetratto.com/@faucoded) 
   
   
 </div>
