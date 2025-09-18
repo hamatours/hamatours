@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://file.garden/Zy4Qac38k0TT_wEe/download%20(25).jpeg">
+  <img src="">
   </p
    < div align=center>
 
