@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="https://file.garden/Zy4Qac38k0TT_wEe/eru%20shugo%20chara.jpeg">
   </p
    < div align=center>
 
