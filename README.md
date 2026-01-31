@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/fireemblem/images/6/64/Veyle_cover_art.png/revision/latest?cb=20221118090503">
+  <img src="https://static.wikia.nocookie.net/fireemblem/images/7/7c/Veyle_Heroes_sprite.png/revision/latest?cb=20240222171934">
   </p
    < div align=center>
 
 
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamatours&label=vistors&color=d6313a">
+  <img src="https://komarev.com/ghpvc/?username=hamatours&label=vistors&color=A8E038">
   </p
    < div align=center>
   
