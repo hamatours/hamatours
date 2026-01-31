@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://file.garden/Zy4Qac38k0TT_wEe/eru%20shugo%20chara.jpeg">
+  <img src="https://static.wikia.nocookie.net/fireemblem/images/6/64/Veyle_cover_art.png/revision/latest?cb=20221118090503">
   </p
    < div align=center>
 
