@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/fireemblem/images/7/7c/Veyle_Heroes_sprite.png/revision/latest?cb=20240222171934">
+  <img src="https://file.garden/Zy4Qac38k0TT_wEe/artbylps3573ontwt">
   </p
    < div align=center>
 
@@ -15,7 +15,7 @@
 </div>
 
 <div align=center>
-  
+   ##### art by @lps3573 on twt
   
    ##### ‎‎ [rentry](https://rentry.co/miracletoi) 
  
