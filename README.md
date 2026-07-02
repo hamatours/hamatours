@@ -18,7 +18,7 @@
    
    ##### art by @lps3573 on twt
   
-   ##### ‎‎ [rentry](https://rentry.co/miracletoi) 
+   
  
    ##### ‎‎ [leave me a message](https://tetratto.com/@faucoded) 
   
